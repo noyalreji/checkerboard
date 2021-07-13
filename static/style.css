@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: rgb(0, 26, 255); 
+}
+
+.cell0 {
+    background-color: black;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+.cell1 {
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
